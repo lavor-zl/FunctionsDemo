@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FunctionsDemo.iml" filepath="$PROJECT_DIR$/FunctionsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocrDemo/app.iml" filepath="$PROJECT_DIR$/ocrDemo/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocrDemo/ocrDemo.iml" filepath="$PROJECT_DIR$/ocrDemo/ocrDemo.iml" />
+    </modules>
+  </component>
+</project>
